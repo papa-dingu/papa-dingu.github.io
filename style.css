@@ -11,6 +11,10 @@ h1 {
     font-family: OCR A Std, monospace;
 }
 footer {
+    position: fixed;
+    width: 100%;
+    left: 0;
+    bottom: 0;
     text-align: left;
     font-family: OCR A Std, monospace;
 }
